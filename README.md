@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-¡Hola!<br>Soy Bruno, tengo 21 años y soy un programador con muchas ganas de aprender y hacer.<br>Aunque no tengo experiencia profesional, he construido mi formación a través de distintos cursos y proyectos personales.<br><br>He aprendido a manejar diversas tecnologías mediante cursos online y aplicando esos conocimientos en proyectos prácticos.<br>Estoy muy motivado para seguir creciendo y me encantaría formar parte de un equipo IT donde pueda contribuir y seguir desarrollándome profesionalmente.
+¡Hola!<br>Soy Bruno, tengo 22 años y soy un programador con muchas ganas de aprender y hacer.<br>Aunque no tengo experiencia profesional, he construido mi formación a través de distintos cursos y proyectos personales.<br><br>He aprendido a manejar diversas tecnologías mediante cursos online y aplicando esos conocimientos en proyectos prácticos.<br>Estoy muy motivado para seguir creciendo y me encantaría formar parte de un equipo IT donde pueda contribuir y seguir desarrollándome profesionalmente.
 
 
 ## 🌐 Mis redes:
